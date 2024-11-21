@@ -1,0 +1,2 @@
+# GobCoin
+Yes
